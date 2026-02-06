@@ -26,7 +26,7 @@ Wei Chen graduated from Beijing Jiaotong University in 2025. His research intere
 # 📝 Publications 
 
 - [ACL 2025] Zhiyu Zhang, **Wei Chen**, Youfang Lin, Huaiyu Wan. A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning. The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
-- $\color{red}{**[IEEE TKDE]**}$ Wei Chen, Haoyu Huang, Zhiyu Zhang, Tianyi Wang, Youfang Lin, Liang Chang, Huaiyu Wan. Next-POI Recommendation via Spatial-Temporal Knowledge Graph Contrastive Learning and Trajectory Prompt. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(6): 3570-3582.
+-  　<font color='red'> **[IEEE TKDE]** </font> Wei Chen, Haoyu Huang, Zhiyu Zhang, Tianyi Wang, Youfang Lin, Liang Chang, Huaiyu Wan. Next-POI Recommendation via Spatial-Temporal Knowledge Graph Contrastive Learning and Trajectory Prompt. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(6): 3570-3582.
 
 
 % # 💬 Invited Talks
