@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes knowledge graph and large language model. 
-I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Wei Chen graduated from Beijing Jiaotong University in 2025. His research interests include knowledge graph, large language model, and spatio-temporal data mining. He has published more than 10 papers in international conferences and journals such as TKDE, AAAI, ICDE, ICLR, EMNLP, and KBS. He has served as a reviewer for international journals such as TKDE, AAAI, ACL, and TKDD.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 xxx
+- 
 
 
 # 📝 Publications 
 
-- [ACL 2025] Zhiyu Zhang, **Wei Chen**, Youfang Lin, Huaiyu Wan. A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning. The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. (Accepted)
+- [ACL 2025] Zhiyu Zhang, **Wei Chen**, Youfang Lin, Huaiyu Wan. A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning. The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
+- $\color{red}{**[IEEE TKDE]**}$ Wei Chen, Haoyu Huang, Zhiyu Zhang, Tianyi Wang, Youfang Lin, Liang Chang, Huaiyu Wan. Next-POI Recommendation via Spatial-Temporal Knowledge Graph Contrastive Learning and Trajectory Prompt. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(6): 3570-3582.
 
 
-# 💬 Invited Talks
-- *2021.06*
+% # 💬 Invited Talks
+% - *2021.06*
 
